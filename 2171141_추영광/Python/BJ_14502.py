@@ -3,6 +3,7 @@ from collections import deque
 input = sys.stdin.readline
 
 vec = ((1,0),(-1,0),(0,1),(0,-1))
+
 def bfs(x, y):
     for dx, dy in vec:
         nx, ny = x + dx, y + dy

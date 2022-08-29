@@ -86,12 +86,12 @@ _[목차로 이동](#zap목차)_
 자신이 공부한 자료는 ex) 자료구조 연결리스트
 5. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.
 6. 언어는 Python, Java, C, C++, Kotlin, JavaScript, Swift 자유롭게 사용가능 단, Ruby같은 건 관리자들이 못 봄. TODO: 논의필요
-7. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 2명이상에게 Approve 받기 -> Merge
+7. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 3명이상에게 Approve 받기 -> Merge
 자세한 설명은 아래 참고
 8. Review 및 Comment에는 경어체, 평어체 아무거나 사용해도 되나, 욕설과 비속어는 금지<br>
 왜? Repository가 Private가 아니라 Public임 일반 사람들도 볼 수 있음.
 9. 다른이의 폴더를 참고하여 볼 수 있으나 허락없이 수정하지 말 것
-10. Branch Protection을 사용하여, Reviewer 2명 이상에게 Approve를 받지 못하면 Merge가 안됨
+10. Branch Protection을 사용하여, Reviewer 3명 이상에게 Approve를 받지 못하면 Merge가 안됨
 
 _[목차로 이동](#zap목차)_
 

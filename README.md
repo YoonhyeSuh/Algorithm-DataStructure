@@ -9,7 +9,7 @@ Branch Protection 이란? Branch를 보호하기 위한, 깃에서 제공하는 
 
 동아리에서 진행하는 알고리즘 스터디 방식은 이러한 리뷰 시스템을 이용한 것입니다.
 
-현재 Branch Protection에서는 3명에게 Approve를 받지 못하면 Merge가 되지 못하도록 막아 놓았습니다.
+현재 Branch Protection에서는 **2명**에게 Approve를 받지 못하면 Merge가 되지 못하도록 막아 놓았습니다.
 <br><br>
 ## :zap:목차
 * [링크](#iphone링크)
@@ -43,14 +43,14 @@ _[목차로 이동](#zap목차)_
 | [장정윤](https://github.com/jeinie) | X | [김주은](https://github.com/jueun0725) | [김준성](https://github.com/newJunsung) |
 
 **20기**
-| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/YJMINT"><img src="https://avatars.githubusercontent.com/u/105741144?v=4" width="90" height="90"></a> | <a href="https://github.com/S-DPR"><img src="https://avatars.githubusercontent.com/u/108619579?v=4" width="90" height="90"></a> | <a href="https://github.com/YoonhyeSuh"><img src="https://avatars.githubusercontent.com/u/106311524?v=4" width="90" height="90"></a> | X | X |
+| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/YJMINT"><img src="https://avatars.githubusercontent.com/u/105741144?v=4" width="90" height="90"></a> | <a href="https://github.com/S-DPR"><img src="https://avatars.githubusercontent.com/u/108619579?v=4" width="90" height="90"></a> | <a href="https://github.com/YoonhyeSuh"><img src="https://avatars.githubusercontent.com/u/106311524?v=4" width="90" height="90"></a> | <a href="https://github.com/juniii99"><img src="https://avatars.githubusercontent.com/u/112378363?v=4" width="90" height="90"></a> | <a href="https://github.com/ubin0318"><img src="https://avatars.githubusercontent.com/u/109210958?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | [서윤혜](https://github.com/YoonhyeSuh) | X | X |
+| [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | [서윤혜](https://github.com/YoonhyeSuh) | [박준이](https://github.com/juniii99) | [신유빈](https://github.com/ubin0318) |
 
 **21기**
-| <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | X |
+| <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | <a href="https://github.com/krevlin"><img src="https://avatars.githubusercontent.com/u/109061978?v=4" width="90" height="90"></a> |
 | ----- | ----- |
-| [이서원](https://github.com/isnonyou) | X |
+| [이서원](https://github.com/isnonyou) | [권영현](https://github.com/krevlin) |
 
 _[목차로 이동](#zap목차)_
 

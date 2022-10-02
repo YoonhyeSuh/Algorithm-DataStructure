@@ -1,10 +1,16 @@
 # :sunglasses:알고리즘과 자료구조를 부수고싶은 DC&amp;M 
-
-<B>TODO : 1,2학년 논의 필수 : <- 난이도 조정 필수 및 방향성 스터디+튜터링 혼합형태로</B>
 <br>
 
 <B> 일정 : 2022.09.05 ~ 2022.12.23 </B><br>
 
+<B>[알고리즘 스터디] Git Branch Protection Rule 적용 안내</B><br>
+Branch Protection 이란? Branch를 보호하기 위한, 깃에서 제공하는 보호 장치입니다. 여러 사람들이 동시에 같은 코드 베이스에서 작업을 하다 보면 여러 가지 문제가 생길 수 있습니다. 허락받지 않은 사람이 무질서하게 코드를 작성하고 머지 하는 경우도 발생하고, 설령 허락을 받은 멤버가 코드를 작성하고 머지 하더라도 그 코드가 테스팅을 거치지 않은 문제가 많은? 코드 일 수도 있습니다.
+실례로 제가 프로젝트를 진행하였을 때도, 자기 짠 코드는 틀릴 일이 없다고 자신만만하게 말씀하시던 분 코드를 머지 한 이후에 크게 문제가 발생한 경우도 있었습니다. 추후에 테스팅에 대한 중요성을 설명드리겠지만, 머지 한 이후 문제가 발생한 경우 여러분들이 작업하는 프로젝트 혹은 서비스가 크게 망가질 수도 있습니다. 그렇기에 깃허브에서는 Pull Request(Pr)라는 작업으로 코드를 머지 할 때, 리뷰를 받을 수 있는 장치를 제공하고 있습니다.
+
+동아리에서 진행하는 알고리즘 스터디 방식은 이러한 리뷰 시스템을 이용한 것입니다.
+
+현재 Branch Protection에서는 **2명**에게 Approve를 받지 못하면 Merge가 되지 못하도록 막아 놓았습니다.
+<br><br>
 ## :zap:목차
 * [링크](#iphone링크)
 * [멤버](#four_leaf_clover멤버)
@@ -32,19 +38,19 @@ _[목차로 이동](#zap목차)_
 
 ## :four_leaf_clover:멤버
 **19기**
-| <a href="https://github.com/jeinie"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | X | X | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> |
+| <a href="https://github.com/jeinie"><img src="https://avatars.githubusercontent.com/u/68533847?v=4" width="90" height="90"></a> | X | <a href="https://github.com/jueun0725"><img src="https://avatars.githubusercontent.com/u/82727761?v=4" width="90" height="90"></a> | <a href="https://github.com/newJunsung"><img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- |
-| [장정윤](https://github.com/jeinie) | X | X | [김준성](https://github.com/newJunsung) |
+| [장정윤](https://github.com/jeinie) | X | [김주은](https://github.com/jueun0725) | [김준성](https://github.com/newJunsung) |
 
 **20기**
-| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/YJMINT"><img src="https://avatars.githubusercontent.com/u/105741144?v=4" width="90" height="90"></a> | <a href="https://github.com/S-DPR"><img src="https://avatars.githubusercontent.com/u/108619579?v=4" width="90" height="90"></a> | <a href="https://github.com/YoonhyeSuh"><img src="https://avatars.githubusercontent.com/u/106311524?v=4" width="90" height="90"></a> | X | X |
+| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/YJMINT"><img src="https://avatars.githubusercontent.com/u/105741144?v=4" width="90" height="90"></a> | <a href="https://github.com/S-DPR"><img src="https://avatars.githubusercontent.com/u/108619579?v=4" width="90" height="90"></a> | <a href="https://github.com/YoonhyeSuh"><img src="https://avatars.githubusercontent.com/u/106311524?v=4" width="90" height="90"></a> | <a href="https://github.com/juniii99"><img src="https://avatars.githubusercontent.com/u/112378363?v=4" width="90" height="90"></a> | <a href="https://github.com/ubin0318"><img src="https://avatars.githubusercontent.com/u/109210958?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- | ----- | ----- |
-| [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | [서윤혜](https://github.com/YoonhyeSuh) | X | X |
+| [오인성](https://github.com/ois0886) | [정윤주](https://github.com/YJMINT) | [추영광](https://github.com/S-DPR) | [서윤혜](https://github.com/YoonhyeSuh) | [박준이](https://github.com/juniii99) | [신유빈](https://github.com/ubin0318) |
 
 **21기**
-| <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | X |
+| <a href="https://github.com/isnonyou"><img src="https://avatars.githubusercontent.com/u/109057475?v=4" width="90" height="90"></a> | <a href="https://github.com/krevlin"><img src="https://avatars.githubusercontent.com/u/109061978?v=4" width="90" height="90"></a> |
 | ----- | ----- |
-| [이서원](https://github.com/isnonyou) | X |
+| [이서원](https://github.com/isnonyou) | [권영현](https://github.com/krevlin) |
 
 _[목차로 이동](#zap목차)_
 
@@ -80,12 +86,12 @@ _[목차로 이동](#zap목차)_
 자신이 공부한 자료는 ex) 자료구조 연결리스트
 5. 문제에 대한 자유로운 질문과 회고는 스터디 시간에 공유한다.
 6. 언어는 Python, Java, C, C++, Kotlin, JavaScript, Swift 자유롭게 사용가능 단, Ruby같은 건 관리자들이 못 봄. TODO: 논의필요
-7. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 2명이상에게 Approve 받기 -> Merge
+7. 열심히 풀고 Commit -> Push -> PR -> Comment작성 -> ReviewRequest -> 3명이상에게 Approve 받기 -> Merge
 자세한 설명은 아래 참고
 8. Review 및 Comment에는 경어체, 평어체 아무거나 사용해도 되나, 욕설과 비속어는 금지<br>
 왜? Repository가 Private가 아니라 Public임 일반 사람들도 볼 수 있음.
 9. 다른이의 폴더를 참고하여 볼 수 있으나 허락없이 수정하지 말 것
-10. Branch Protection을 사용하여, Reviewer 2명 이상에게 Approve를 받지 못하면 Merge가 안됨
+10. Branch Protection을 사용하여, Reviewer 3명 이상에게 Approve를 받지 못하면 Merge가 안됨
 
 _[목차로 이동](#zap목차)_
 
